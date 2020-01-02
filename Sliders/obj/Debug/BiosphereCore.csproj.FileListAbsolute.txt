@@ -1,0 +1,6 @@
+C:\Users\tdenb\Desktop\RimStuff\PROJECTS\Resources\RimWorld 1.0.2282\Mods\Biome\Assemblies\BiosphereCore.dll
+C:\Users\tdenb\Desktop\RimStuff\PROJECTS\Resources\RimWorld 1.0.2282\Mods\Biome\Assemblies\BiosphereCore.pdb
+C:\Users\tdenb\Desktop\RimStuff\PROJECTS\Sliders\obj\Debug\BiosphereCore.csprojAssemblyReference.cache
+C:\Users\tdenb\Desktop\RimStuff\PROJECTS\Sliders\obj\Debug\BiosphereCore.dll
+C:\Users\tdenb\Desktop\RimStuff\PROJECTS\Sliders\obj\Debug\BiosphereCore.pdb
+C:\Users\tdenb\Desktop\RimStuff\PROJECTS\Sliders\obj\Debug\BiosphereCore.csproj.CopyComplete
