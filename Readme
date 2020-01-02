@@ -24,6 +24,9 @@ For a terrain to have plants on it, it HAS TO have a fertility value in the XML.
          no other terrain will have the plant
 	POSSIBLE BUGS...
 		Plant respawning, if they keep the same terrain-based seperation
+		Plant quantity, plant densities cause the engine to want to spawn x porportion of them over the entire map, 
+			if the plant is only spawning in a small region it may spawn waaay too many
+			GetDesiredPlantsCount
 SLIDERS
   .....
     
