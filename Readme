@@ -7,18 +7,19 @@ For a terrain to have plants on it, it HAS TO have a fertility value in the XML.
    The plant will now then be placed on the tagged terrains.
 
 TAGS
-  Terrain Tags
+  Terrain Tags should be formated like...
 	<tags>
 		<li>noPlants</li>           //(no matter the fertility, plant nothing)
 		<li>onlyTaggedPlants</li>   //(no matter the fertility, only plant plants with tags for this terrain type)
 	</tags>
     
-  Plant Tags 	- having a thingSetMakerTags tag on a olant will cause the plant to only be placed on the tagged terrain types
+  Plant Tags should be formated like...	- 
 	<thingSetMakerTags>
 		<li>WaterShallow</li>       (the defName of a terrain, as writtin in the XML)
 		<li>WaterOceanShallow</li>
 	</thingSetMakerTags>
-   
+   note: having a thingSetMakerTags tag on a plant will cause the plant to be placed ONLY ON the tagged terrain types, 
+         no other terrain will have the plant
 SLIDERS
   .....
     
