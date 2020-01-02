@@ -18,7 +18,7 @@ TAGS
 		<li>WaterShallow</li>       (the defName of a terrain, as writtin in the XML)
 		<li>WaterOceanShallow</li>
 	</thingSetMakerTags>
-   note: having a thingSetMakerTags tag on a plant will cause the plant to be placed ONLY ON the tagged terrain types, 
+   note: having a <thingSetMakerTags> tag on a plant will cause the plant to be placed ONLY ON the tagged terrain types, 
          no other terrain will have the plant
 SLIDERS
   .....
