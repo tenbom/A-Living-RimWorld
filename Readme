@@ -1,1 +1,18 @@
-BLAH BLAH BLAH
+NOTES...
+
+TAGS
+  Terrain Tags
+    <tags>
+      <li>noPlants</li>           (no matter the fertility, plant nothing)
+	    <li>onlyTaggedPlants</li>   (no matter the fertility, only plant plants with tags for this terrain type)
+    </tags>
+    
+  Plant Tags    - causes a plant to only be planted on the listed below terrain types
+    <thingSetMakerTags>
+		  <li>WaterShallow</li>       (the defName of a terrain, as writtin in the XML)
+		  <li>WaterOceanShallow</li>
+	  </thingSetMakerTags>
+   
+SLIDERS
+  .....
+    
