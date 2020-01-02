@@ -1,0 +1,24 @@
+C:\Users\tdenb\Desktop\RimStuff\PROJECTS\Biome\Biome\Resources\RimWorld\Mods\Biome\Biome.dll
+C:\Users\tdenb\Desktop\RimStuff\PROJECTS\Biome\Biome\Resources\RimWorld\Mods\Biome\Biome.pdb
+C:\Users\tdenb\Desktop\RimStuff\PROJECTS\Biome\Biome\Resources\RimWorld\Mods\Biome\0Harmony.dll
+C:\Users\tdenb\Desktop\RimStuff\PROJECTS\Biome\Biome\Resources\RimWorld\Mods\Biome\Assembly-CSharp.dll
+C:\Users\tdenb\Desktop\RimStuff\PROJECTS\Biome\Biome\Resources\RimWorld\Mods\Biome\UnityEngine.dll
+C:\Users\tdenb\Desktop\RimStuff\PROJECTS\Biome\Biome\Resources\RimWorld\Mods\Biome\TextMeshPro-1.0.55.56.0b11.dll
+C:\Users\tdenb\Desktop\RimStuff\PROJECTS\Biome\Biome\Resources\RimWorld\Mods\Biome\Assembly-CSharp-firstpass.dll
+C:\Users\tdenb\Desktop\RimStuff\PROJECTS\Biome\Biome\Resources\RimWorld\Mods\Biome\NAudio.dll
+C:\Users\tdenb\Desktop\RimStuff\PROJECTS\Biome\Biome\Resources\RimWorld\Mods\Biome\NVorbis.dll
+C:\Users\tdenb\Desktop\RimStuff\PROJECTS\Biome\Biome\Resources\RimWorld\Mods\Biome\UnityEngine.UI.dll
+C:\Users\tdenb\Desktop\RimStuff\PROJECTS\Biome\Biome\obj\Debug\Rimworld Class.csprojAssemblyReference.cache
+C:\Users\tdenb\Desktop\RimStuff\PROJECTS\Biome\Biome\obj\Debug\Rimworld Class.csproj.CopyComplete
+C:\Users\tdenb\Desktop\RimStuff\PROJECTS\Biome\Biome\obj\Debug\Biome.dll
+C:\Users\tdenb\Desktop\RimStuff\PROJECTS\Biome\Biome\obj\Debug\Biome.pdb
+C:\Users\tdenb\Desktop\RimStuff\PROJECTS\Resources\RimWorld 1.0.2282\Mods\Biome\Biome.dll
+C:\Users\tdenb\Desktop\RimStuff\PROJECTS\Resources\RimWorld 1.0.2282\Mods\Biome\Biome.pdb
+C:\Users\tdenb\Desktop\RimStuff\PROJECTS\Resources\RimWorld 1.0.2282\Mods\Biome\Assemblies\Biome.dll
+C:\Users\tdenb\Desktop\RimStuff\PROJECTS\Resources\RimWorld 1.0.2282\Mods\Biome\Assemblies\Biome.pdb
+D:\Users\tdenb\Desktop\RimStuff\PROJECTS\Resources\RimWorld 1.0.2282\Mods\Biome\Assemblies\Biome.dll
+D:\Users\tdenb\Desktop\RimStuff\PROJECTS\Resources\RimWorld 1.0.2282\Mods\Biome\Assemblies\Biome.pdb
+D:\Users\tdenb\Desktop\RimStuff\PROJECTS\Biome\Biome\obj\Debug\Rimworld Class.csprojAssemblyReference.cache
+D:\Users\tdenb\Desktop\RimStuff\PROJECTS\Biome\Biome\obj\Debug\Rimworld Class.csproj.CopyComplete
+D:\Users\tdenb\Desktop\RimStuff\PROJECTS\Biome\Biome\obj\Debug\Biome.dll
+D:\Users\tdenb\Desktop\RimStuff\PROJECTS\Biome\Biome\obj\Debug\Biome.pdb

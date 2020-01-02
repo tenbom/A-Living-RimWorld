@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|AnyCPU'">
+    <StartAction>Program</StartAction>
+    <StartProgram>D:\Users\tdenb\Desktop\RimStuff\PROJECTS\Resources\RimWorld 1.0.2282\RimWorldWin64.exe</StartProgram>
+    <StartArguments>-savedatafolder=SaveData</StartArguments>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|AnyCPU'">
+    <StartAction>Program</StartAction>
+    <StartProgram>C:\Users\tdenb\Desktop\RimStuff\PROJECTS\Biome\Biome\Resources\RimWorld\RimWorldWin64.exe</StartProgram>
+    <StartArguments>-savedatafolder=SaveData</StartArguments>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ProjectView>ShowAllFiles</ProjectView>
+  </PropertyGroup>
+</Project>

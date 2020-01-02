@@ -1,0 +1,5 @@
+C:\Users\tdenb\Desktop\RimStuff\PROJECTS\Biome\Biome\bin\Debug\Biome.dll
+C:\Users\tdenb\Desktop\RimStuff\PROJECTS\Biome\Biome\bin\Debug\Biome.pdb
+C:\Users\tdenb\Desktop\RimStuff\PROJECTS\Biome\Biome\obj\Debug\Biome.csprojAssemblyReference.cache
+C:\Users\tdenb\Desktop\RimStuff\PROJECTS\Biome\Biome\obj\Debug\Biome.dll
+C:\Users\tdenb\Desktop\RimStuff\PROJECTS\Biome\Biome\obj\Debug\Biome.pdb
