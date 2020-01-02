@@ -1,17 +1,19 @@
 NOTES...
 
 TAGS
-  Terrain Tags
-    <tags>
-      <li>noPlants</li>           (no matter the fertility, plant nothing)
-	    <li>onlyTaggedPlants</li>   (no matter the fertility, only plant plants with tags for this terrain type)
-    </tags>
+  Terrain Tags	- added to a terrain in the following form...
+  		DescriptionL: niche tags for forcing a terrain to only have a select few plants (for example water)
+	<tags>
+		<li>noPlants</li>           (no matter the fertility, plant nothing)
+		<li>onlyTaggedPlants</li>   (no matter the fertility, only plant plants with tags for this terrain type)
+	</tags>
     
-  Plant Tags    - causes a plant to only be planted on the listed below terrain types
-    <thingSetMakerTags>
-		  <li>WaterShallow</li>       (the defName of a terrain, as writtin in the XML)
-		  <li>WaterOceanShallow</li>
-	  </thingSetMakerTags>
+  Plant Tags    - added to a plant in the following form...
+  		Decription: causes a plant to only be planted on the listed terrain types
+	<thingSetMakerTags>
+		<li>WaterShallow</li>       (the defName of a terrain, as writtin in the XML)
+		<li>WaterOceanShallow</li>
+	</thingSetMakerTags>
    
 SLIDERS
   .....
