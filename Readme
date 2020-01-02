@@ -27,6 +27,10 @@ For a terrain to have plants on it, it HAS TO have a fertility value in the XML.
 		Plant quantity, plant densities cause the engine to want to spawn x porportion of them over the entire map, 
 			if the plant is only spawning in a small region it may spawn waaay too many
 			GetDesiredPlantsCount
+		Plant wildOrder, the generator tries to have a porportion of low order->mid order->high order plants.
+			it exists so less plant-land regions (mountainous, whatever) have fewer large plants.
+			with extensive tagging, there may be, in terrains, drastically fewer high order (larger) plants spawning
+				IF there are generally few low order plants (grass/flower) in the surrounding terrain
 SLIDERS
   .....
     
