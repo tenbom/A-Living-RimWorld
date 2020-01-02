@@ -1,11 +1,11 @@
 NOTES...
 
 TAGS
-  Terrain Tags	- added to a terrain in the following form...
-  		DescriptionL: niche tags for forcing a terrain to only have a select few plants (for example water)
+  Terrain Tags	-  tags for changing the way a terrain type chooses its' plants (usefull for water)
+  added to a terrain in the following form...
 	<tags>
-		<li>noPlants</li>           (no matter the fertility, plant nothing)
-		<li>onlyTaggedPlants</li>   (no matter the fertility, only plant plants with tags for this terrain type)
+		<li>noPlants</li>           //(no matter the fertility, plant nothing)
+		<li>onlyTaggedPlants</li>   //(no matter the fertility, only plant plants with tags for this terrain type)
 	</tags>
     
   Plant Tags    - added to a plant in the following form...
