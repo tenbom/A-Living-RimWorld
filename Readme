@@ -2,9 +2,10 @@ NOTES...
 
 For a terrain to have plants on it, it HAS TO have a fertility value in the XML.  So to add plants to water, you would...
 1. Give the specific type of water you want plants on (waterShallow, waterShallowMoving, whatever) a fertility value
+	I might be able to work around (1.) in the future.
 2. If you only want a couple specific plants on that terrain, give the terain a tag, <tags> <li>onlyTaggedPlants</li> </tags>
 3. Determine which plants to grow on the terrain.  Give each plant tags with the terrain's defNames (in the XML).  
-   The plant will now then be placed on the tagged terrains.
+   The plant will now be placed on the tagged terrains.
 
 TAGS
   Terrain Tags should be formated like...
@@ -18,7 +19,7 @@ TAGS
 		<li>WaterShallow</li>       (the defName of a terrain, as writtin in the XML)
 		<li>WaterOceanShallow</li>
 	</thingSetMakerTags>
-   note: having a <thingSetMakerTags> tag on a plant will cause the plant to be placed ONLY ON the tagged terrain types, 
+   note: having a <thingSetMakerTags> tag on a plant will cause the plant to be placed ONLY ON its tagged terrain types, 
          no other terrain will have the plant
 SLIDERS
   .....
